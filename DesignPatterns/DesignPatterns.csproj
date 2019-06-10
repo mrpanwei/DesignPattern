@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="编码6大原则\" />
+    <Folder Include="编码6大原则\单一职责原则\" />
+    <Folder Include="编码6大原则\里氏替换原则\" />
+    <Folder Include="编码6大原则\依赖倒置原则\" />
+    <Folder Include="编码6大原则\接口隔离原则\" />
+    <Folder Include="编码6大原则\开闭原则\" />
+    <Folder Include="编码6大原则\迪米特法则\" />
+  </ItemGroup>
+</Project>

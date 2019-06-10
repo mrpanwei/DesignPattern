@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{677D08DC-64BA-467F-8BEC-6EF2480C1692}|Default">
+  <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/编码6大原则/迪米特法则/LawOk.cs">
+    <Files>
+      <File FileName="DesignPatterns/Program.cs" Line="92" Column="1" />
+      <File FileName="DesignPatterns/编码6大原则/迪米特法则/LawOk.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatterns" expanded="True">
+            <Node name="DesignPatterns" expanded="True">
+              <Node name="编码6大原则" expanded="True">
+                <Node name="开闭原则" expanded="True" />
+                <Node name="迪米特法则" expanded="True">
+                  <Node name="LawOk.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.deps.json
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.runtimeconfig.json
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.runtimeconfig.dev.json
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.dll
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.pdb
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.csprojAssemblyReference.cache
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.AssemblyInfoInputs.cache
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.AssemblyInfo.cs
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.dll
+/Users/jetaime/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.pdb
